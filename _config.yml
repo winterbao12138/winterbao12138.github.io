@@ -80,4 +80,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:winterbao12138/winterbao12138.github.io.git
-
+branch: master
